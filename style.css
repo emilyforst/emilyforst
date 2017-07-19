@@ -73,7 +73,7 @@ h1 {
   .emily {
     order: 2;
     flex-basis: 100%;
-    margin: 3.5rem 0 4rem 0;
+    margin-top: 8vh;
   }
 
   .flex-nav {
